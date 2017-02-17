@@ -11,7 +11,7 @@
 import csv
 import json
 
-csvfile = open('demo.csv','rb')
+csvfile = open('demo.csv','r')
 outfile = open('publicationEvents.json','w')
 reader = csv.DictReader(csvfile)
 
@@ -60,14 +60,16 @@ for row in reader:
     if (row['Publication Event'] == 'true'):
         data['publication_event']=event
 
-    if (row['Life Event'] == 'true'):
-        data['life_event']=event
+    # if (row['Life Event'] == 'true'):
+    #     data['life_event']=event
+    #
+    # if (row['Historical Event'] == 'true'):
+    #     data['historical_event']=event
+    #
+    # if (row['Type'] == 'title'):
+    #     data['title']=event
 
-    if (row['Historical Event'] == 'true'):
-        data['historical_event']=event
 
-    if (row['Type'] == 'title'):
-        data['title']=event
     # else if (row['Type'] == 'publication'):
     #     data['publication']=event
     # else if (row['Type'] == 'history'):

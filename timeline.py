@@ -11,7 +11,7 @@
 import csv
 import json
 
-csvfile = open('timeline.csv','rb')
+csvfile = open('timeline.csv','r')
 outfile = open('timeline.json','w')
 reader = csv.DictReader(csvfile)
 
