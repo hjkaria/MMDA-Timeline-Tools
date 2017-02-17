@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e401e8-4e11-4da3-a54e-f1c02d61968d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html" afterPath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,14 +67,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeline_demo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_demo.html">
+      <file leaf-file-name="timeline_full.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="483">
+              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeline_historical.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="23" column="71" lean-forward="false" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,6 +158,7 @@
         <option value="$PROJECT_DIR$/TestingTimeline/configure/timeline_demo.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/JSON/timeline_demo.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_demo.html" />
+        <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html" />
       </list>
     </option>
   </component>
@@ -283,6 +293,7 @@
       <recent name="C:\Users\Heeba\IdeaProjects\MMDA\TimelineJS\MMDA-Timeline-Tools\TestingTimeline\publication_events" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Heeba\IdeaProjects\MMDA\TimelineJS\MMDA-Timeline-Tools\TestingTimeline\webpages" />
       <recent name="C:\Users\Heeba\IdeaProjects\MMDA\TimelineJS\MMDA-Timeline-Tools\TestingTimeline\Scripts\FullTimeline" />
       <recent name="C:\Users\Heeba\IdeaProjects\MMDA\TimelineJS\MMDA-Timeline-Tools\TestingTimeline" />
       <recent name="C:\Users\Heeba\IdeaProjects\MMDA\TimelineJS\MMDA-Timeline-Tools\TestingTimeline\publication_events" />
@@ -840,12 +851,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486398747793</updated>
-      <workItem from="1487330552899" duration="4765000" />
+      <workItem from="1487330552899" duration="5428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4765000" />
+    <option name="totallyTimeSpent" value="5428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="-13" width="2638" height="1850" extended-state="6" />
@@ -1264,13 +1275,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_demo.html">
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="483">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" column="71" lean-forward="false" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+          <folding />
         </state>
       </provider>
     </entry>

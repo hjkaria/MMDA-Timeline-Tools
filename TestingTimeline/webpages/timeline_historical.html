@@ -1,10 +1,10 @@
-<!--Generating TimelineJS from JSON file.-->
+<!--Generating TimelineJS from historical events JSON file.-->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>TIMELINE FULL</title>
+    <title>HISTORICAL EVENTS</title>
 </head>
 <body>
 <!-- 1 -->
@@ -17,12 +17,11 @@
 
 <!-- 3 -->
 <script type="text/javascript">
-    var timeline_json = "../JSON/demo.json"
+    var timeline_json = "../JSON/historicalEvents.json"
     // two arguments: the id of the Timeline container (no '#')
     // and the JSON object or an instance of TL.TimelineConfig created from
     // a suitable JSON object
     window.timeline = new TL.Timeline('timeline-embed', timeline_json);
-</script>
 </script>
 </body>
 </html>
