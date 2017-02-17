@@ -9,32 +9,35 @@
 # wget -qO timeline.csv 'https://docs.google.com/spreadsheets/d/1xTn9OSdmnxbBtQcKxZYV-xXkKoOpPSu6AUT0LXXszHo/pub?ou tput=csv'
 
 import csv
-import json
+import TestingTimeline.JSON
 
-csvfile = open('demo.csv','r')
-outfile = open('historicalEvents.json','w')
+csvfile = open('demo.csv','rb')
+outfile = open('demo.json','w')
 reader = csv.DictReader(csvfile)
 
 data = {}
-
-history_events = []
+# life_events = []
+# history_events = []
+# publications = []
 events = []
-
-data['history_events']=history_events
+#
+# data['life_events']=life_events
+# data['history_events']=history_events
+# data['publications']=publications
 data['events']=events
 # Didn't support 'End Time': '', 'Time': ''
 
-keymap = {'Media': 'media|url', 'Media Caption': 'media|caption', 'Media Thumbnail': 'media|thumbnail',
-          'Media Credit': 'media|credit',
+keymap = {'Media': 'media|url', 'Media Caption': 'media|caption', 'Media Thumbnail': 'media|thumbnail', 'Media Credit': 'media|credit',
           'Month': 'start_date|month', 'Day': 'start_date|day', 'Year': 'start_date|year',
           'End Month': 'end_date|month', 'End Day': 'end_date|day', 'End Year': 'end_date|year',
           'Headline': 'text|headline', 'Text': 'text|text',
-          'Group': 'group', 'Display Date': 'display_date'}
+          'Group': 'group', 'Display Date': 'display_date' }
 
 for row in reader:
     event = {}
-    history_event = {}
-    publication = {}
+    # history_event = {}
+    # publicaton = {}
+    # life_event = {}
     for a in keymap:
         if row[a]:
             if '|' in keymap[a]:
@@ -44,20 +47,24 @@ for row in reader:
             else:
                 event[keymap[a]] = row[a]
 
-    # if row['Background']:
-    #     event['background'] = {}
-    #     if row['Background'].startswith("#"):
-    #         event['background']['color']=row['Background']
-    #     else:
-    #         event['background']['url']=row['Background']
+    if row['Background']:
+        event['background'] = {}
+        if row['Background'].startswith("#"):
+            event['background']['color']=row['Background']
+        else:
+            event['background']['url']=row['Background']
+
+    if (row['Publication Event'] == 'true'):
+        data['publication_event']=event
+
+    if (row['Life Event'] == 'true'):
+        data['life_event']=event
 
     if (row['Historical Event'] == 'true'):
         data['historical_event']=event
-    #
-    # if (row['Type'] == 'title'):
-    #     data['title']=event
 
-
+    if (row['Type'] == 'title'):
+        data['title']=event
     # else if (row['Type'] == 'publication'):
     #     data['publication']=event
     # else if (row['Type'] == 'history'):
@@ -67,4 +74,4 @@ for row in reader:
     else:
         events.append(event)
 
-json.dump(data,outfile, sort_keys=True,indent=4)
+TestingTimeline.JSON.dump(data, outfile, sort_keys=True, indent=4)

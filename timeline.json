@@ -1,0 +1,1607 @@
+{
+    "events": [
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "day": "15",
+                "month": "11",
+                "year": "1887"
+            },
+            "text": {
+                "headline": "Marianne Craig Moore Born"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1896"
+            },
+            "text": {
+                "headline": "Moves to Carlisle, Pennsylvania"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "month": "8",
+                "year": "1905"
+            },
+            "text": {
+                "headline": "Enters Bryn Mawr College"
+            }
+        },
+        {
+            "start_date": {
+                "month": "2",
+                "year": "1907"
+            },
+            "text": {
+                "headline": "Under a Patched Sail ",
+                "text": "<i>Tipyn O'Bob 4</i>, p. 12\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 331"
+            }
+        },
+        {
+            "start_date": {
+                "month": "2",
+                "year": "1907"
+            },
+            "text": {
+                "headline": "To Come after a Sonnet",
+                "text": "<i>Tipyn O'Bob 4</i>, p. 25\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 332"
+            }
+        },
+        {
+            "start_date": {
+                "month": "4",
+                "year": "1908"
+            },
+            "text": {
+                "headline": "To My Cup-Bearer",
+                "text": "<i>Tipyn O'Bob 5</i>, p. 21\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 333"
+            }
+        },
+        {
+            "start_date": {
+                "month": "4",
+                "year": "1908"
+            },
+            "text": {
+                "headline": "The Sentimentalist",
+                "text": "<i>Tipyn O'Bob 5</i>, p. 26\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 334"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "year": "1909"
+            },
+            "text": {
+                "headline": "To a Screen-Maker",
+                "text": "<i>Tipyn O'Bob 6</i>, p. 2-3\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 335"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1909"
+            },
+            "text": {
+                "headline": "First recorded trip to New York"
+            }
+        },
+        {
+            "start_date": {
+                "month": "3",
+                "year": "1909"
+            },
+            "text": {
+                "headline": "Ennui",
+                "text": "<i>Tipyn O'Bob 6</i>, p. 7\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 339"
+            }
+        },
+        {
+            "start_date": {
+                "month": "5",
+                "year": "1909"
+            },
+            "text": {
+                "headline": "A Red Flower",
+                "text": "<i>Tipyn O'Bob 6</i>, p. 14\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 341"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1909"
+            },
+            "text": {
+                "headline": "Gradutes from Bryn Mawr College"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1909"
+            },
+            "text": {
+                "headline": "A Jelly-Fish",
+                "text": "<i>The Lantern 17</i>, p. 110\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 342"
+            }
+        },
+        {
+            "start_date": {
+                "month": "6",
+                "year": "1909"
+            },
+            "text": {
+                "headline": "Progress",
+                "text": "<i>Tipyn O'Bob 6</i>, p. 10\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 343</i>"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1910"
+            },
+            "text": {
+                "headline": "My Lantern",
+                "text": "<i>The Lantern 18</i>, p. 28\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 344</i>"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1910"
+            },
+            "text": {
+                "headline": "Tunica Pallio Proprior",
+                "text": "<i>The Lantern 18</i>, p. 102\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 345</i>"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1910"
+            },
+            "text": {
+                "headline": "My Senses Do Not Deceive Me",
+                "text": "<i>The Lantern 18</i>, p. 103\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 346"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1910"
+            },
+            "text": {
+                "headline": "Qui S'Excuse, S'Accuse",
+                "text": "<i>The Lantern 18</i>, p. 103\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 346"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "end_date": {
+                "year": "1914"
+            },
+            "start_date": {
+                "year": "1911"
+            },
+            "text": {
+                "headline": "Teaches business, English, and math at \nthe Carlisle Indian School"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1912"
+            },
+            "text": {
+                "headline": "A Talisman",
+                "text": "<i>The Lantern 20</i>, p. 61\n</i><br/><br/>Other appearances: <i> Observations</i> (1924), p. 12\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 171\n"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1912"
+            },
+            "text": {
+                "headline": "Leaves of a Magazine",
+                "text": "<i>The Lantern 20</i>, p. 10\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 347"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1913"
+            },
+            "text": {
+                "headline": "The Beast of Burden",
+                "text": "<i>The Lantern 21</i>, p. 57\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 348"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1913"
+            },
+            "text": {
+                "headline": "Councell to a Bachelor",
+                "text": "<i>The Lantern 21</i>, p.106\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 349"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1913"
+            },
+            "text": {
+                "headline": "Things Are What They Seem",
+                "text": "<i>The Lantern 21</i>, p. 109\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 351"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1915"
+            },
+            "text": {
+                "headline": "Begins publishing poems in little magazines."
+            }
+        },
+        {
+            "start_date": {
+                "day": "1",
+                "month": "4",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To a Man Working His Way through the Crowd",
+                "text": "<i>The Egoist 4.2</i>, p. 62\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 352"
+            }
+        },
+        {
+            "start_date": {
+                "day": "1",
+                "month": "4",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To the Soul of \"Progress\" ",
+                "text": "<i>The Egoist 4.2</i>, p. 62\n</i><br/><br/>Other appearances: <i> Observations </i>(1924) as \"To Military Progress,\" p. 19\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 188\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1201884772640625&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1201884901609375.jpg"
+            },
+            "start_date": {
+                "month": "5",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "That Harp You Play So Well",
+                "text": "<i>Poetry 6.2</i>, p. 70\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 355"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1201884772640625&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1201884906406250.jpg"
+            },
+            "start_date": {
+                "month": "5",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To an Intra-Mural Rat",
+                "text": "<i>Poetry 6.2</i>, p. 71\n</i><br/><br/>Other appearances: <i> Observations</i> (1924), p. 9\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 165\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1201884772640625&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1201884906406250.jpg"
+            },
+            "start_date": {
+                "month": "5",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "Appellate Jurisdiction",
+                "text": "<i>Poetry 6.2</i>, p. 71\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 355"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1201884772640625&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/120188491115625.jpg"
+            },
+            "start_date": {
+                "month": "5",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "The Wizard in Words",
+                "text": "<i>Poetry 6.2</i>, p. 72\n</i><br/><br/>Other appearances: <i> Observations </i>(1924) as \"Reticence and Volubility</i>,\" p. 10\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 167\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1306936031578127&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/130693631993757.jpg"
+            },
+            "start_date": {
+                "day": "1",
+                "month": "5",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To William Butler Yeats on Tagore",
+                "text": "<i>The Egoist 5.2</i>, p. 77\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 357"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1915"
+            },
+            "text": {
+                "headline": "The North Wind to a Dutiful Beast Midway \nbetween the Dial and the Foot of a Garden Clock",
+                "text": "<i>The Lantern 23</i>, p. 17\n</i><br/><br/><br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 359"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1915"
+            },
+            "text": {
+                "headline": "Isaiah, Jeremiah, Ezekial, Daniel",
+                "text": "<i>The Lantern 23</i>, p. 60<br/><br/>\nSource: <i>Becoming Marianne Moore</i>, p. 360"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To Disraeli on Conservatism",
+                "text": "<i>The Lantern 23</i>, p. 60\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 181\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1306937287281252&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/130693750315632.jpg"
+            },
+            "start_date": {
+                "day": "2",
+                "month": "8",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To Browning",
+                "text": "<i>The Egoist 8.2</i>, p. 126\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 174\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1306937287281252&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/130693750315632.jpg"
+            },
+            "start_date": {
+                "day": "2",
+                "month": "8",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To Bernard Shaw: A Prize Bird",
+                "text": "<i>The Egoist 8.2</i>, p. 126\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 174\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1306938053500002&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1306938275468757.jpg"
+            },
+            "start_date": {
+                "day": "1",
+                "month": "10",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "Diligence Is to Magic as Progress Is to Flight",
+                "text": "<i>The Egoist 10.2</i>, p. 158\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 190\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1306938053500002&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1306938275468757.jpg"
+            },
+            "start_date": {
+                "day": "1",
+                "month": "10",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To a Steam Roller",
+                "text": "<i>The Egoist 10.2</i>, p. 158\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 190\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308774347400001&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "thumbnail": "http://library.brown.edu/jpegs/1308774560587506.jpg",
+                "url": "http://library.brown.edu/jpegs/1308774560587506.jpg"
+            },
+            "start_date": {
+                "month": "12",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To Statecraft Embalmed",
+                "text": "<i>Others 1.6</i>, p. 104\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 203\n"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308774347400001&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308774581993757.jpg"
+            },
+            "start_date": {
+                "month": "12",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "To a Friend in the Making",
+                "text": "<i>Others 1.6</i>, p. 105\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 361"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308774347400001&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308774581993757.jpg"
+            },
+            "start_date": {
+                "month": "12",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "Blake",
+                "text": "<i>Others 1.6</i>, p. 105\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 361"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308774347400001&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308774581993757.jpg"
+            },
+            "start_date": {
+                "month": "12",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "George Moore",
+                "text": "<i>Others 1.6</i>, p. 105-6\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 193\n"
+            }
+        },
+        {
+            "start_date": {
+                "month": "12",
+                "year": "1915"
+            },
+            "text": {
+                "headline": "<i>So far as the future is concerned, \"Shall not one say, \nwith the Russian philosopher, 'How is one to know \nwhat one doesn't know?'\" So far as the present is \nconcerned</i>",
+                "text": "<i>Others 1.6</i>, p. 106\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 208\n"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Masks",
+                "text": "<i>Contemporary Verse 1.1</i>, p. 6\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 186\n"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Diogenes",
+                "text": "<i>Contemporary Verse 1.1</i>, p. 6\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 363"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "\"Sun!\"",
+                "text": "<i>Contemporary Verse 1.1</i>, p. 7\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 177"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308241717546877&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308241887500006.jpg"
+            },
+            "start_date": {
+                "day": "1",
+                "month": "5",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "\"He Wrote the History Book,\" It Said",
+                "text": "<i>The Egoist 3.5</i>, p. 71\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 213"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308241717546877&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308241887500006.jpg"
+            },
+            "start_date": {
+                "day": "1",
+                "month": "5",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "You are Like the Realistic Product of an Idealistic\nSearch for Gold at the Foot of the Rainbow",
+                "text": "<i>The Egoist 3.5</i>, p. 71\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 169"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Is Your Town Nineveh?",
+                "text": "<i>The Lantern 24</i>, p. 19\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 183"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1916"
+            },
+            "text": {
+                "headline": "You Are Fire Eaters",
+                "text": "<i>The Lantern 24</i>, p. 59\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 365"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308242127906252&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308242462546881.jpg"
+            },
+            "start_date": {
+                "day": "1",
+                "month": "6",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Pedantic Literalist",
+                "text": "First pubication: The Egoist 6.3</i>, p. 95\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 211"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1309191893669877&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1309192026263631.jpg"
+            },
+            "start_date": {
+                "month": "7",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Critics and Connoisseurs",
+                "text": "<i>Others 3.1</i>, p. 4-5\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 215"
+            }
+        },
+        {
+            "start_date": {
+                "month": "7",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "In This Age of Hard Trying Nonchalance Is \nGood, And",
+                "text": "<i>The Chimaera 1.2</i>, p. 52-55\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 198"
+            }
+        },
+        {
+            "start_date": {
+                "month": "7",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "To Be Liked by You Would Be a Calamity",
+                "text": "<i>The Chimaera 1.2</i>, p. 56\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 218"
+            }
+        },
+        {
+            "start_date": {
+                "day": "2",
+                "month": "8",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Feed Me, Also, River God",
+                "text": "<i>The Egoist 8.3</i>, p. 118\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 367"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Moves to Chatham, New Jersey in late \nsummer and commutes regularly to New York."
+            }
+        },
+        {
+            "start_date": {
+                "day": "7",
+                "month": "10",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Holes Bored in a Workbag by the Scissors",
+                "text": "<i>Bruno's Weekly 3</i>, p. 1137\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 370"
+            }
+        },
+        {
+            "start_date": {
+                "day": "7",
+                "month": "10",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "Apropos of Mice",
+                "text": "<i>Bruno's Weekly 3</i>, p. 1137\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 370"
+            }
+        },
+        {
+            "start_date": {
+                "day": "30",
+                "month": "12",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "The Just Man And",
+                "text": "<i>Bruno's Weekly 3</i>, p. 1233\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 371"
+            }
+        },
+        {
+            "start_date": {
+                "day": "30",
+                "month": "12",
+                "year": "1916"
+            },
+            "text": {
+                "headline": "In \"Designing a Cloak to Cloak His Designs,\" You\nWrested from Oblivion, a Coat of Immortality\nfor Your Own Use",
+                "text": "<i>Bruno's Weekly 3</i>, p. 1233 \n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 371"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "Those Various Scalpels",
+                "text": "<i>The Lantern 25</i>, p. 50-51\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 261"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "The Past Is the Present",
+                "text": "<i>Others: An Anthology of\nthe New Verse (1917)</i>, ed.\nAlfred Kreymborg \n(New York: Knopf, 1917), p. 74-75\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 372"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "Like a Bulrush",
+                "text": "<i>The Egoist 10.2</i>, p. 158\n<br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 190\n"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "French Peacock",
+                "text": "<i>Others: An Anthology of\nthe New Verse (1917)</i>, ed.\nAlfred Kreymborg \n(New York: Knopf, 1917), p. 77\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 196"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "Sojourn in the Whale",
+                "text": "<i>Others: An Anthology of the New Verse (1917)</i>, ed. Alfred Kreymborg (New York: Knopf, 1917), p. 78 \n<br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 223"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "Roses Only",
+                "text": "<i>Others: An Anthology of the New Verse (1917)</i>, ed. Alfred Kreymborg (New York: Knopf, 1917), p. 80-81\n<br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 228"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1917"
+            },
+            "text": {
+                "headline": "My Apish Cousins",
+                "text": "<i>Others: An Anthology of the New Verse (1917)</i>, ed. Alfred Kreymborg (New York: Knopf, 1917), p. 83-84 \n<br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 225"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1918"
+            },
+            "text": {
+                "headline": "Moves with mother to Greenwich Village, New York City."
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308747513821877&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308747668993757.jpg"
+            },
+            "start_date": {
+                "month": "4",
+                "year": "1918"
+            },
+            "text": {
+                "headline": "Black Earth",
+                "text": "<i>The Egoist 4.5</i>, p. 55-56\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 237"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1918"
+            },
+            "text": {
+                "headline": "An Ardent Platonist",
+                "text": "<i>The Lantern 26</i>, p. 22\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 375"
+            }
+        },
+        {
+            "display_date": "June-July",
+            "media": {
+                "caption": "<a hreff=\"http://modjourn.org/render.php?id=1308748206915627&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308748360556257.jpg"
+            },
+            "start_date": {
+                "year": "1918"
+            },
+            "text": {
+                "headline": "Reinforcements",
+                "text": "<i>The Egoist 6.5</i>, p. 83\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 232"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=1308748501384377&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1308748670884382.jpg"
+            },
+            "start_date": {
+                "month": "8",
+                "year": "1918"
+            },
+            "text": {
+                "headline": "The Fish",
+                "text": "<i>The Egoist 7.5</i>, p. 95\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 234"
+            }
+        },
+        {
+            "start_date": {
+                "month": "12",
+                "year": "1918"
+            },
+            "text": {
+                "headline": "You Say You Said",
+                "text": "<i>The Little Review 5.8</i>, p. 21\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 376"
+            }
+        },
+        {
+            "start_date": {
+                "month": "3",
+                "year": "1919"
+            },
+            "text": {
+                "headline": "Radical",
+                "text": "<i>Others 5</i>, p. 15\n</i><br/><br/>Other appearances: <i> Observations </i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 240"
+            }
+        },
+        {
+            "media": {
+                "caption": "<a href=\"http://modjourn.org/render.php?id=130927636160501&view=mjp_object\">View full-size image on Modernist Journals Project</a>",
+                "url": "http://library.brown.edu/jpegs/1309276517919881.jpg"
+            },
+            "start_date": {
+                "month": "7",
+                "year": "1919"
+            },
+            "text": {
+                "headline": "Poetry",
+                "text": "<i>Others 5.6</i>, p. 5\n</i><br/><br/>Other appearances: <i> Observations</i> (1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 205"
+            }
+        },
+        {
+            "display_date": "Spring",
+            "start_date": {
+                "year": "1919"
+            },
+            "text": {
+                "headline": "In the Days of Prismatic Colour",
+                "text": "First publications: The Lantern 27</i>, p. 35\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 242"
+            }
+        },
+        {
+            "start_date": {
+                "month": "4",
+                "year": "1920"
+            },
+            "text": {
+                "headline": "Picking and Choosing",
+                "text": "<i>The Dial 68</i>, p. 421-22\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 249"
+            }
+        },
+        {
+            "start_date": {
+                "month": "4",
+                "year": "1920"
+            },
+            "text": {
+                "headline": "England",
+                "text": "<i>The Dial 68</i>, p. 422-23\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 250"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1920"
+            },
+            "text": {
+                "headline": "Dock Rats",
+                "text": "<i>Others for \n1919: An Anthology of the New\nVerse (New York: Nicholas\nBrown</i>, p. 1920)</i>, p. 127-28\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 245"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1921"
+            },
+            "text": {
+                "headline": "<i>Poems</i> published through agency of H.D.\nand Bryher (Annie Winifred Ellerman)"
+            }
+        },
+        {
+            "start_date": {
+                "month": "7",
+                "year": "1921"
+            },
+            "text": {
+                "headline": "When I Buy Pictures",
+                "text": "<i>The Dial 71</i>, p. 33\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 255"
+            }
+        },
+        {
+            "start_date": {
+                "month": "7",
+                "year": "1921"
+            },
+            "text": {
+                "headline": "A Graveyard",
+                "text": "<i>The Dial 71</i>, p. 34\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 258"
+            }
+        },
+        {
+            "start_date": {
+                "month": "12",
+                "year": "1921"
+            },
+            "text": {
+                "headline": "New York",
+                "text": "<i>The Dial 71</i>, p. 637\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 267"
+            }
+        },
+        {
+            "start_date": {
+                "month": "12",
+                "year": "1921"
+            },
+            "text": {
+                "headline": "The Labours of Hercules",
+                "text": "<i>The Dial 71</i>, p. 638\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 265"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "year": "1922"
+            },
+            "text": {
+                "headline": "Snakes, Mongooses, Snake-Charmers and the Like",
+                "text": "<i>The Broom 1.3</i>, p. 193\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 274"
+            }
+        },
+        {
+            "start_date": {
+                "month": "6",
+                "year": "1922"
+            },
+            "text": {
+                "headline": "People's Surroundings",
+                "text": "<i>The Dial 72</i>, p. 588-90\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 269"
+            }
+        },
+        {
+            "start_date": {
+                "month": "2",
+                "year": "1923"
+            },
+            "text": {
+                "headline": "Novices",
+                "text": "<i>The Dial 74</i>, p. 183-84\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 278"
+            }
+        },
+        {
+            "start_date": {
+                "month": "7",
+                "year": "1923"
+            },
+            "text": {
+                "headline": "Bowls",
+                "text": "<i>Secession 5</i>, p. 12\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 276"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1923"
+            },
+            "text": {
+                "headline": "Marriage",
+                "text": "<i>Manikin</i>, p. Number Three\n(New York: Monroe\nWheeler</i>, p. 1923)\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 284"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1924"
+            },
+            "text": {
+                "headline": "Publishes <i>Observations</i>; wins Dial Prize"
+            }
+        },
+        {
+            "start_date": {
+                "month": "10",
+                "year": "1924"
+            },
+            "text": {
+                "headline": "Silence",
+                "text": "<i>The Dial 77</i>, p. 290\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 309"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "year": "1924"
+            },
+            "text": {
+                "headline": "Sea Unicorns and Land Unicorns",
+                "text": "<i>The Dial 77</i>, p. 411-13\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 321"
+            }
+        },
+        {
+            "start_date": {
+                "month": "12",
+                "year": "1924"
+            },
+            "text": {
+                "headline": "An Octopus",
+                "text": "<i>The Dial 77</i>, p. 475-81\n</i><br/><br/>Other appearances: <i> Observations </i>(1924)\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 312"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1924"
+            },
+            "text": {
+                "headline": "An Egyptian Pulled Glass Bottle in the Shape \nof a Fish",
+                "text": "<i>Observations (New York:\nDial Press</i>, p. 1924)</i>, p. 20\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 62"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1924"
+            },
+            "text": {
+                "headline": "To a Snail",
+                "text": "<i>Observations (New York: Dial Press</i>, p. 1924)</i>, p. 23\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 65"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1924"
+            },
+            "text": {
+                "headline": "\"The Bricks Are Fallen Down</i>, p. We Will Build with\nHewn Stones. The Sycamores Are Cut Down</i>, p. We\nWill Change to Cedars.\"",
+                "text": "<i>Observations (New York: Dial Press</i>, p. 1924)</i>, p. 24\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 66"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1924"
+            },
+            "text": {
+                "headline": "\"Nothing Will Cure the Sick Lion but to Eat \nan Ape\"",
+                "text": "<i>Observations (New York: Dial Press</i>, p. 1924)</i>, p. 26\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 68"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1924"
+            },
+            "text": {
+                "headline": "Peter",
+                "text": "<i>Observations (New York: Dial Press</i>, p. 1924)</i>, p. 51-52\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 93"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "end_date": {
+                "year": "1929"
+            },
+            "start_date": {
+                "year": "1925"
+            },
+            "text": {
+                "headline": "Becomes editor of <i>The Dial</i>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "year": "1925"
+            },
+            "text": {
+                "headline": "The Monkey Puzzler",
+                "text": "<i>The Dial 78</i>, p. 8\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 43-44"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1929"
+            },
+            "text": {
+                "headline": "Wall Street stock market crashes; <i>Dial</i> closes",
+                "text": "\"Wall Street stock market crashes; Dial closes\""
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1930"
+            },
+            "text": {
+                "headline": "Moves with mother to Brooklyn"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1932"
+            },
+            "text": {
+                "headline": "Old Tiger",
+                "text": "<i>Profile: An Anthology \nCollected in MCMXXXI</i>, p.\ned. Ezra Pound (Milan: \nJohn Scheiwiller</i>, p. 1932)</i>, p. 61-64\nSoource: A-Quiver with Significance</i>, p. 45-49"
+            }
+        },
+        {
+            "start_date": {
+                "month": "6",
+                "year": "1932"
+            },
+            "text": {
+                "headline": "The Steeple Jack",
+                "text": "<i>Poetry 40</i>, p. 119-122\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 50-53</i>, p. 60"
+            }
+        },
+        {
+            "start_date": {
+                "month": "6",
+                "year": "1932"
+            },
+            "text": {
+                "headline": "The Student",
+                "text": "<i>Poetry 40</i>, p. 122-126\n</i><br/><br/>Other appearances: <i>\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 53-57</i>, p. 61"
+            }
+        },
+        {
+            "start_date": {
+                "month": "6",
+                "year": "1932"
+            },
+            "text": {
+                "headline": "The Hero",
+                "text": "<i>Poetry 40</i>, p. 126-128\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 57-59</i>, p. 61"
+            }
+        },
+        {
+            "start_date": {
+                "month": "10",
+                "year": "1932"
+            },
+            "text": {
+                "headline": "No Swan So Fine",
+                "text": "<i>Poetry 41</i>, p. 7\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 62-63"
+            }
+        },
+        {
+            "display_date": "October-December",
+            "start_date": {
+                "year": "1932"
+            },
+            "text": {
+                "headline": "The Jebora",
+                "text": "<i>Hound & Horn 6</i>, p. 108-113\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 64-70"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1933"
+            },
+            "text": {
+                "headline": "Camellia Sabina",
+                "text": "<i>Active Anthology</i>, p. ed. Ezra Pound (London: Faber and Faber</i>, p. 1933)</i>, p. 189-191\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 71-74"
+            }
+        },
+        {
+            "display_date": "October-December",
+            "start_date": {
+                "year": "1933"
+            },
+            "text": {
+                "headline": "The Plumet Basilisk",
+                "text": "<i>Hound & Horn 7</i>, p. 29-34\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 75-82"
+            }
+        },
+        {
+            "start_date": {
+                "month": "7",
+                "year": "1934"
+            },
+            "text": {
+                "headline": "The Frigate Pelican",
+                "text": "<i>Criterion 13</i>, p. 557-560\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 83-87"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "year": "1934"
+            },
+            "text": {
+                "headline": "The Buffalo",
+                "text": "<i>Poetry 45</i>, p. 61-64\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 88-91</i>, p. 95"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "year": "1934"
+            },
+            "text": {
+                "headline": "Nine Nectarines and Other Porcelain",
+                "text": "<i>Poetry 45</i>, p. 64-67\n</i><br/><br/>Other appearances: <i> Selected Poems (1935)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 91-94</i>, p. 95"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1935"
+            },
+            "text": {
+                "headline": "Publishes <i>Selected Poems</i>"
+            }
+        },
+        {
+            "display_date": "January-March",
+            "start_date": {
+                "year": "1935"
+            },
+            "text": {
+                "headline": "Half Diety",
+                "text": "<i>Direction 1(Peoria</i>, p. Ill.)</i>, p. 74-75\n</i><br/><br/>Other appearances: <i> The Pangolin and Other Verse (1936); What Are Years? (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 96-98"
+            }
+        },
+        {
+            "start_date": {
+                "day": "17",
+                "month": "10",
+                "year": "1935"
+            },
+            "text": {
+                "headline": "Smooth Gnarled Crepe Myrtle!",
+                "text": "<i>New English Weekly 8</i>, p. 13\n</i><br/><br/>Other appearances: <i> The Pangolin and Other Verse (1936); What Are Years? (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 99-100"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "year": "1935"
+            },
+            "text": {
+                "headline": "Pigeons",
+                "text": "<i>Poetry 47</i>, p. 61-65\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 101-106"
+            }
+        },
+        {
+            "start_date": {
+                "month": "12",
+                "year": "1935"
+            },
+            "text": {
+                "headline": "Virginia Britannia",
+                "text": "<i>Life and Letters Today 13</i>, p. 66-70\n</i><br/><br/>Other appearances: <i> The Pangolin and Other Verse (1936); What Are Years? (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 107-113"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1936"
+            },
+            "text": {
+                "headline": "Publishes <i>The Pangolin and Other Verse</i>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1936"
+            },
+            "text": {
+                "headline": "The Pangolin",
+                "text": "<i>The Pangolin and Other\nVerse (London: The Brendin\nPublishing Co.</i>, p. 1936)</i>, p. 17-21\n</i><br/><br/>Other appearances: <i> What Are Years?  (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 27-31</i>, p. 114\n"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1936"
+            },
+            "text": {
+                "headline": "See in the Midst of Fair Leaves",
+                "text": "<i>New Directions in Prose and\nPoetry</i>, p. ed. James Laughlin\n(Norfolk</i>, p. Conn.: New \nDirections</i>, p. 1936)</i>, p. 56\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 115-116"
+            }
+        },
+        {
+            "start_date": {
+                "day": "22",
+                "month": "1",
+                "year": "1936"
+            },
+            "text": {
+                "headline": "Bird-Witted",
+                "text": "<i>New Republic 85</i>, p. 311\n</i><br/><br/>Other appearances: <i> The Pangolin and Other Verse (1936)</i>, p.\nWhat Are Years? (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 117-118"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "year": "1936"
+            },
+            "text": {
+                "headline": "Walking-Sticks and Paperweights and Watermarks",
+                "text": "<i>Poetry 49</i>, p. 59-64\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>A-Quiver with Significance</i>, p. 119-125"
+            }
+        },
+        {
+            "display_date": "Summer",
+            "start_date": {
+                "year": "1940"
+            },
+            "text": {
+                "headline": "Four Quartz Crystal Clocks",
+                "text": "<i>Kenyon Review 2</i>, p. 284-285\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 141-143"
+            }
+        },
+        {
+            "display_date": "Summer",
+            "start_date": {
+                "year": "1940"
+            },
+            "text": {
+                "headline": "A Glass-Ribbed Nest",
+                "text": "<i>Kenyon Review 2</i>, p. 287-288\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 145-147"
+            }
+        },
+        {
+            "display_date": "Summer",
+            "start_date": {
+                "year": "1940"
+            },
+            "text": {
+                "headline": "What Are Years?",
+                "text": "<i>Kenyon Review 2</i>, p. 286\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 148-149"
+            }
+        },
+        {
+            "start_date": {
+                "month": "9",
+                "year": "1940"
+            },
+            "text": {
+                "headline": "Rigorists",
+                "text": "<i>Life and Letters Today 26</i>, p. 243-244\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 150-152"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1941"
+            },
+            "text": {
+                "headline": "Publishes <i>What are Years?</i>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "3",
+                "year": "1941"
+            },
+            "text": {
+                "headline": "Light is Speech",
+                "text": "<i>Decision 1</i>, p. 26\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 153-154"
+            }
+        },
+        {
+            "display_date": "Summer",
+            "start_date": {
+                "year": "1941"
+            },
+            "text": {
+                "headline": "Spenser's Ireland",
+                "text": "<i>Furioso 1</i>, p. 24-25\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 155-157"
+            }
+        },
+        {
+            "display_date": "July-August",
+            "start_date": {
+                "year": "1941"
+            },
+            "text": {
+                "headline": "He \"Digesteth Harde Yron\"",
+                "text": "<i>Partisan Review 8</i>, p. 312-314\n</i><br/><br/>Other appearances: <i> What Are Years? (1941)\n<br/><br/>Source: <i>Adversity & Grace</i>, p. 158-161"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1944"
+            },
+            "text": {
+                "headline": "Publishes <i>Nevertheless</i>"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1947"
+            },
+            "text": {
+                "headline": "Marianne's mother, Mary Warner Moore, dies."
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1951"
+            },
+            "text": {
+                "headline": "Publishes <i>Collected Poems</i>; awarded Pulitzer\nPrize and Gold Medal of the National Institute\nof Arts and Letters \n"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1952"
+            },
+            "text": {
+                "headline": "Awarded National Book Award"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1953"
+            },
+            "text": {
+                "headline": "Awarded Bollingen Prize"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1954"
+            },
+            "text": {
+                "headline": "Publishes <i>The Fables of La Fontaine</i>"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1955"
+            },
+            "text": {
+                "headline": "Elected to American Academy of Arts and \nLetters"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1956"
+            },
+            "text": {
+                "headline": "Publishes <i>Like a Bulwark</i>"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1959"
+            },
+            "text": {
+                "headline": "Publishes <i>O to Be a Dragon</i>"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1962"
+            },
+            "text": {
+                "headline": "Publishes <i>The Absentee: A Comedy in Four\nActs Based on Maria Edgeworth's Novel of the \nSame Name</i>\n"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1966"
+            },
+            "text": {
+                "headline": "Publishes <i>Tell Me Tell Me</i>"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1967"
+            },
+            "text": {
+                "headline": "Publishes <i>Complete Poems</i>; receives Chevalier\nde l'Ordre des Arts et des Lettres, France, and the\nGold Medal Award for Lifetime Achievement from\nthe Poetry Society."
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1972"
+            },
+            "text": {
+                "headline": "Marianne Craig Moore dies in her sleep in New York."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2015"
+            },
+            "text": {
+                "headline": "Timeline Sources:",
+                "text": "<br/><p><i>Adversity & Grace: Marianne Moore 1936-1941</i>, edited by Heather Cass White (Victoria, B. C.: ELS Editions, 2012).</p><p><i>A-quiver with Significance, Marianne Moore 1932-1936</i>, edited by Heather Cass White (Victoria, B. C.: ELS Editions, 2008).</p><p><i>Becoming Marianne Moore: the Early Poems, 1907-1924</i>, edited by Robin G. Schulze (Berkeley: University of California Press, 2002).</p><p>Cristanne Miller, <i>Cultures of Modernism: Marianne Moore, Mina Loy, Else Lasker-Schuler; Gender and Literary Community in New York and Berlin</i> (University of Michigan Press, 2005).</p><p>Margaret Holley, <i>The Poetry of Marianne Moore: A Study in Voice and Value</i> (New York: Cambridge University Press, 1987).</p>"
+            }
+        }
+    ],
+    "title": {
+        "background": {
+            "color": "#3289C7"
+        },
+        "end_date": {
+            "year": "1972"
+        },
+        "media": {
+            "caption": "Photograph by Carl Van Vechten (1948)",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marianne_Moore_1948_hires.jpg/440px-Marianne_Moore_1948_hires.jpg"
+        },
+        "start_date": {
+            "year": "1887"
+        },
+        "text": {
+            "headline": "Marianne Moore",
+            "text": "<h3>A timeline of her life and works.</h3><p>Publications listed by first appearance of a work only.</p>"
+        }
+    }
+}
