@@ -12,21 +12,17 @@ import csv
 import json
 
 csvfile = open('demo.csv','r')
-outfile = open('publicationEvents.json','w')
+outfile = open('lifeEvents.json','w')
 reader = csv.DictReader(csvfile)
 
 data = {}
-# life_events = []
-# history_events = []
-publications = []
 
+life_events = []
 events = []
-#
-# data['life_events']=life_events
-# data['history_events']=history_events
-data['publications']=publications
 
+data['life_events']=life_events
 data['events']=events
+
 # Didn't support 'End Time': '', 'Time': ''
 
 keymap = {'Media': 'media|url', 'Media Caption': 'media|caption', 'Media Thumbnail': 'media|thumbnail',
@@ -38,9 +34,7 @@ keymap = {'Media': 'media|url', 'Media Caption': 'media|caption', 'Media Thumbna
 
 for row in reader:
     event = {}
-    # history_event = {}
-    publicaton = {}
-    # life_event = {}
+    life_event = {}
     for a in keymap:
         if row[a]:
             if '|' in keymap[a]:
@@ -50,32 +44,16 @@ for row in reader:
             else:
                 event[keymap[a]] = row[a]
 
-    if row['Background']:
-        event['background'] = {}
-        if row['Background'].startswith("#"):
-            event['background']['color']=row['Background']
-        else:
-            event['background']['url']=row['Background']
+    # if row['Background']:
+    #     event['background'] = {}
+    #     if row['Background'].startswith("#"):
+    #         event['background']['color']=row['Background']
+    #     else:
+    #         event['background']['url']=row['Background']
 
-    if (row['Publication Event'] == 'true'):
-        data['publication_event']=event
+    if (row['Life Event'] == 'true'):
+        data['life_event']=event
 
-    # if (row['Life Event'] == 'true'):
-    #     data['life_event']=event
-    #
-    # if (row['Historical Event'] == 'true'):
-    #     data['historical_event']=event
-    #
-    # if (row['Type'] == 'title'):
-    #     data['title']=event
-
-
-    # else if (row['Type'] == 'publication'):
-    #     data['publication']=event
-    # else if (row['Type'] == 'history'):
-    #     data['history']=event
-    # else if (row['Type'] == 'life'):
-    #     data['life']=event
     else:
         events.append(event)
 
