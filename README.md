@@ -20,4 +20,5 @@ For follow up later in break or January ... get the development version running 
 Prepare for Demo! 
 
 
-A/N: change to add to events dictionary, add id
+A/N: change to add to events dictionary, add id, look into adding string tags (ask about styling, layout)
+-show for demo easiness of data entry, adding info/updating (google forms -> google csv)
