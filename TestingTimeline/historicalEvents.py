@@ -12,20 +12,15 @@ import csv
 import json
 
 csvfile = open('demo.csv','r')
-outfile = open('publicationEvents.json','w')
+outfile = open('historicalEvents.json','w')
 reader = csv.DictReader(csvfile)
 
 data = {}
-# life_events = []
-# history_events = []
-publications = []
 
+history_events = []
 events = []
-#
-# data['life_events']=life_events
-# data['history_events']=history_events
-data['publications']=publications
 
+data['history_events']=history_events
 data['events']=events
 # Didn't support 'End Time': '', 'Time': ''
 
@@ -38,9 +33,8 @@ keymap = {'Media': 'media|url', 'Media Caption': 'media|caption', 'Media Thumbna
 
 for row in reader:
     event = {}
-    # history_event = {}
+    history_event = {}
     publication = {}
-    # life_event = {}
     for a in keymap:
         if row[a]:
             if '|' in keymap[a]:
@@ -57,14 +51,8 @@ for row in reader:
     #     else:
     #         event['background']['url']=row['Background']
 
-    if (row['Publication Event'] == 'true'):
-        data['publication_event']=event
-
-    # if (row['Life Event'] == 'true'):
-    #     data['life_event']=event
-    #
-    # if (row['Historical Event'] == 'true'):
-    #     data['historical_event']=event
+    if (row['Historical Event'] == 'true'):
+        data['historical_event']=event
     #
     # if (row['Type'] == 'title'):
     #     data['title']=event
