@@ -10,4 +10,26 @@
             }
         }
     ]
+
+    "title": {
+        "background": {
+            "color": "#3289C7"
+        },
+        "end_date": {
+            "year": "1972"
+        },
+        "media": {
+            "caption": "Photograph by Carl Van Vechten (1948)",
+            "credit": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marianne_Moore_1948_hires.jpg/440px-Marianne_Moore_1948_hires.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marianne_Moore_1948_hires.jpg/440px-Marianne_Moore_1948_hires.jpg"
+        },
+        "start_date": {
+            "year": "1887"
+        },
+        "text": {
+            "headline": "Marianne Moore",
+            "text": "<h3>A timeline of life events. </h3>"
+        }
+    }
+
 }

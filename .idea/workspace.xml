@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e401e8-4e11-4da3-a54e-f1c02d61968d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/JSON/historicalEvents.json" afterPath="$PROJECT_DIR$/TestingTimeline/JSON/historicalEvents.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/JSON/lifeEvents.json" afterPath="$PROJECT_DIR$/TestingTimeline/JSON/lifeEvents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json" afterPath="$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +19,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="timeline_full.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/demo.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="historicalEvents.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/historicalEvents.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,53 +51,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeline.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingTimeline/FullTimeline/timeline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timeline.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingTimeline/css/timeline.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="85" lean-forward="false" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timeline_full.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="timeline_historical.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="363">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeline_life.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/demo.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3010">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="14" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeline_life.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state relative-caret-position="726">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -82,18 +84,18 @@
       <file leaf-file-name="timeline_publications.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="66">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publicationEvents.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="publicationEvents.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="429">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -102,8 +104,8 @@
       <file leaf-file-name="historicalEvents.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/historicalEvents.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2119">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="627">
+              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -112,8 +114,8 @@
       <file leaf-file-name="lifeEvents.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/lifeEvents.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="759">
+              <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -162,8 +164,9 @@
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html" />
-        <option value="$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json" />
+        <option value="$PROJECT_DIR$/TestingTimeline/JSON/historicalEvents.json" />
         <option value="$PROJECT_DIR$/TestingTimeline/JSON/lifeEvents.json" />
+        <option value="$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json" />
       </list>
     </option>
   </component>
@@ -238,6 +241,10 @@
               <option name="myItemId" value="TestingTimeline" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -254,6 +261,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JSON" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MMDA-Timeline-Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MMDA-Timeline-Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingTimeline" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -856,12 +877,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486398747793</updated>
-      <workItem from="1487330552899" duration="7322000" />
+      <workItem from="1487330552899" duration="9790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7322000" />
+    <option name="totallyTimeSpent" value="9790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="-13" width="2638" height="1850" extended-state="6" />
@@ -1160,14 +1181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/demo.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/lifeEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="699">
@@ -1188,22 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/demo.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1294">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/historicalEvents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1256,26 +1253,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html">
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="726">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/historicalEvents.json">
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/demo.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2119">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/Scripts/historicalEvents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="153">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1284,32 +1289,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="66">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json">
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/demo.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="-3010">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/historicalEvents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/lifeEvents.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="759">
+          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html">
+    <entry file="file://$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="429">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
