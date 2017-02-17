@@ -1,0 +1,90 @@
+{
+    "events": [
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "end_date": {
+                "year": "1972"
+            },
+            "media": {
+                "caption": "Photograph by Carl Van Vechten (1948)",
+                "credit": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marianne_Moore_1948_hires.jpg/440px-Marianne_Moore_1948_hires.jpg",
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marianne_Moore_1948_hires.jpg/440px-Marianne_Moore_1948_hires.jpg"
+            },
+            "start_date": {
+                "year": "1887"
+            },
+            "text": {
+                "headline": "Marianne Moore",
+                "text": "<h3>A timeline of her life and works.</h3><p>Publications listed by first appearance of a work only.</p>"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "day": "15",
+                "month": "11",
+                "year": "1887"
+            },
+            "text": {
+                "headline": "Marianne Craig Moore Born"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "year": "1896"
+            },
+            "text": {
+                "headline": "Moves to Carlisle, Pennsylvania"
+            }
+        },
+        {
+            "background": {
+                "color": "#3289C7"
+            },
+            "start_date": {
+                "month": "8",
+                "year": "1905"
+            },
+            "text": {
+                "headline": "Enters Bryn Mawr College"
+            }
+        },
+        {
+            "end_date": {
+                "year": "1918"
+            },
+            "start_date": {
+                "year": "1914"
+            },
+            "text": {
+                "headline": "World War 1"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1914"
+            },
+            "text": {
+                "headline": "Assassination of Archduke Franz Ferdinand of Austria"
+            }
+        }
+    ],
+    "publication_event": {
+        "start_date": {
+            "month": "2",
+            "year": "1907"
+        },
+        "text": {
+            "headline": "To Come after a Sonnet",
+            "text": "<i>Tipyn O'Bob 4</i>, p. 25\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 332"
+        }
+    },
+    "publications": []
+}
