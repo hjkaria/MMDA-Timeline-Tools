@@ -18,3 +18,6 @@ Newsletters clean up for a break or if you get stuck on timeline.
 For follow up later in break or January ... get the development version running and get Ed to set it up on the moorearchive server.
 
 Prepare for Demo! 
+
+
+A/N: change to add to events dictionary, add id
