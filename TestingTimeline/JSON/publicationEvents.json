@@ -3,6 +3,17 @@
         {
             "start_date": {
                 "month": "2",
+                "year": "1907"
+            },
+            "text": {
+                "headline": "Under a Patched Sail ",
+                "text": "<i>Tipyn O'Bob 4</i>, p. 12\n<br/><br/>Source: <i>Becoming Marianne Moore</i>, p. 331"
+            }
+        },
+
+        {
+            "start_date": {
+                "month": "2",
                 "year": "1914"
             },
             "text": {
