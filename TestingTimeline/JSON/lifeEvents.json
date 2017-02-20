@@ -9,10 +9,10 @@
                 "headline": "Enters Bryn Mawr College"
             }
         }
-
+    ],
     "title": {
         "background": {
-            "color": "#3289C7"
+            "color": "#1ABC9C"
         },
         "end_date": {
             "year": "1972"
@@ -30,5 +30,5 @@
             "text": "<h3>A timeline of life events. </h3>"
         }
     }
- ]
+
 }
