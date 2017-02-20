@@ -1,11 +1,11 @@
 # MMDA-Timeline-Tools
 
-<A HREF="TestingTimeline/Scripts/demo.csv">Demo.csv file</A>
+<A HREF="TestingTimeline/Scripts/demo.csv" target="_blank">Demo.csv file</A>
 
-<A HREF="TestingTimeline/webpages/timeline_full.html">Full timeline</A>
+<A HREF="TestingTimeline/webpages/timeline_full.html" target="_blank">Full timeline</A>
 
-<A HREF="TestingTimeline/webpages/timeline_historical.html">Historical Events</A>
+<A HREF="TestingTimeline/webpages/timeline_historical.html" target="_blank">Historical Events</A>
 
-<A HREF="TestingTimeline/webpages/timeline_life.html">Life Events</A>
+<A HREF="TestingTimeline/webpages/timeline_life.html" target="_blank">Life Events</A>
 
-<A HREF="TestingTimeline/webpages/timeline_publications.html">Publications</A>
+<A HREF="TestingTimeline/webpages/timeline_publications.html" target="_blank">Publications</A>
