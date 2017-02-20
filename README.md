@@ -1,5 +1,3 @@
-% MMDA Timeline DEMO
-
 # MMDA-Timeline-Tools
 
 <iframe src="https://docs.google.com/spreadsheets/d/1hLpNCs2yKgBIZPd1ouliTILiBTVqBwhXiwEsk-KV_i0/pubhtml?widget=true&amp;headers=false"></iframe>
