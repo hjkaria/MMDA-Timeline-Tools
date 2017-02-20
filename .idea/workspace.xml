@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4e401e8-4e11-4da3-a54e-f1c02d61968d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html" afterPath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html" afterPath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html" afterPath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html" afterPath="$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -98,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeline_publications.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timeline_publications.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="198">
               <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
@@ -171,11 +168,11 @@
         <option value="$PROJECT_DIR$/TestingTimeline/Scripts/demo.csv" />
         <option value="$PROJECT_DIR$/TestingTimeline/JSON/publicationEvents.json" />
         <option value="$PROJECT_DIR$/TODO.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_historical.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_life.html" />
         <option value="$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -896,12 +893,12 @@
       <workItem from="1487330552899" duration="11013000" />
       <workItem from="1487561167935" duration="633000" />
       <workItem from="1487590923622" duration="2829000" />
-      <workItem from="1487593846170" duration="42000" />
+      <workItem from="1487593846170" duration="171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14517000" />
+    <option name="totallyTimeSpent" value="14646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="-13" width="2638" height="1850" extended-state="6" />
@@ -1235,23 +1232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_full.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1282,9 +1262,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingTimeline/webpages/timeline_publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="198">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
